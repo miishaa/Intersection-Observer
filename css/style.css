@@ -24,14 +24,14 @@ section {
     transition: 300ms ease;
 }
 section h2 {
-    font-size: 30px;
+    font-size: 50px;
     font-family: sans-serif;
     margin-bottom: 30px;
 }
 section p {
     transform: translateX(-500%);
-    transition: 300ms ease;
-    font-size: 16px;
+    transition: 700ms ease;
+    font-size: 20px;
 }
 section p + p {
     margin-top: 20px;
