@@ -27,6 +27,7 @@ section h2 {
     font-size: 50px;
     font-family: sans-serif;
     margin-bottom: 30px;
+    transition: 700ms ease;
 }
 section p {
     transform: translateX(-500%);
